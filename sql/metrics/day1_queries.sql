@@ -1,3 +1,7 @@
+-- Day 1: Customer overview queries
+-- Skills: SELECT, WHERE, ORDER BY, GROUP BY, COUNT
+-- Business use cases: customer distribution, churn overview, regional segmentation
+
 DROP DATABASE IF EXISTS saas_company;
 CREATE DATABASE saas_company;
 USE saas_company;
